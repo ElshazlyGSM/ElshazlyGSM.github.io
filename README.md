@@ -49,6 +49,6 @@ Payment
 I Can accept Wise - Paypal - crypto - Swift Transfer
 
 Contact
-Email:Thethanksforthegod@gmail.com
+Email:elshazly.gsm@gmail.com
 
-Discord:Gewily#0460
+Discord:aelshazly#3108
