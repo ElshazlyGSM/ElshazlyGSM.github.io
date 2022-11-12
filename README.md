@@ -64,7 +64,7 @@ A game just like Metal Slug with more features and better gameplay.
 
 ## What pervious clients said about me
 
-![first CLient](/assets/Screenshot 2022-07-10 221919.png) ![second Client](/assets/Screenshot 2022-07-10 221954.png) ![third Client](/assets/Screenshot 2022-07-10 222001.png) ![forth Client](/assets/Screenshot 2022-07-10 222224.png) ![other Client](/assets/Screenshot 2022-07-10 222403.png) ![other Client](/assets/Screenshot 2022-08-13 204057.png) ![other Client](/assets/Screenshot 2022-08-13 204412.png) ![other Client](/assets/Screenshot 2022-08-13 204455.png)
+![first CLient](/assets/Screenshot 2022-07-10 221919.png) ![second Client](/assets/Screenshot 2022-07-10 221954.png) ![third Client](/assets/Screenshot 2022-07-10 222001.png) ![forth Client](/assets/Screenshot 2022-07-10 222224.png) ![other Client](/assets/Screenshot 2022-07-10 222403.png) ![other Client](/assets/Screenshot 2022-08-13 204412.png) ![other Client](/assets/Screenshot 2022-08-13 204455.png)
 
 ## Payment
 
